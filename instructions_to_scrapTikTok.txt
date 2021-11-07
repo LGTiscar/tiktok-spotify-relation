@@ -1,0 +1,8 @@
+#Install the tiktok scrapper with this command:
+
+	npm i -g tiktok-scraper
+
+# Get the top100 tiktok trending videos PERSONALIZED for your user, as you had to authenticate yourself to use tiktok API
+
+	tiktok-scraper trend -n 100 --filepath XXXXXXXXXX -t csv -f 100top_tiktok
+
