@@ -12,3 +12,8 @@ official TikTok API, so the data could be biased by my tiktok account preference
 
 3. Even thought Spotify has an official API, I couldnt find an official source for the trending data playlists. I had to use Spotifycharts (https://spotifycharts.com/regional) to get that day
 top50 viral and top200 global songs
+
+---
+
+These are the results:
+
