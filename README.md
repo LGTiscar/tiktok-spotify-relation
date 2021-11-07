@@ -19,6 +19,8 @@ These are the results:
 
 **top50 viral Spotify:**
 
+<img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/master/Results/top50.png" alt="Image1"/>
+
 **top200 global Spotify:**
 
-<img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/Results/top200.png" alt="Image1"/>
+<img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/master/Results/top200.png" alt="Image1"/>
