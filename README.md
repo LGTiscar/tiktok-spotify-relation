@@ -17,3 +17,8 @@ top50 viral and top200 global songs
 
 These are the results:
 
+**top50 viral Spotify:**
+
+**top200 global Spotify:**
+
+<img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/Results/top200.png" alt="Image1"/>
