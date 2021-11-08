@@ -19,8 +19,13 @@ These are the results:
 
 **top50 viral Spotify:**
 
-<img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/master/Results/top50.png" alt="Image1"/>
+<img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/master/Results/top50.png" alt="Image1"/> 
+
+Because of the 3 problems with mentioned before and the quickly changing behaviour of top50 viral songs, it is not a good measure to clarify if there is a relationship between Spotify and TikTok trends. The next result, on the other hand seems more clarifying:
+
 
 **top200 global Spotify:**
 
 <img src="https://github.com/LGTiscar/tiktok-spotify-relation/blob/master/Results/top200.png" alt="Image1"/>
+
+Many of the most trending songs in tiktok appear in spotify top200 global songs trend. Due to the customization of my tiktok feed, I cannot assure that there is a relationship based on these evidences, but it seems very probably. If any TikTok trend analysis tool would be developed in the future, without having to rely on tiktok API user-focused tools, further investigation should be carried on to prove this relationship.
